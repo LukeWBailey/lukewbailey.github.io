@@ -18,7 +18,7 @@ This is a line of text. I wonder how far it will go off the screen. Hopefully it
 
 **Testing links**
 
-I sometimes post thoughts about video games at [Magic Frying Pan](http://www.magicfryingpan.com).
+I sometimes post thoughts about video games at [Magic Frying Pan](http://magicfryingpan.com).
 
 Here's a photo I took:
 <blockquote class="imgur-embed-pub" lang="en" data-id="BCIJvfM"><a href="//imgur.com/BCIJvfM">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
