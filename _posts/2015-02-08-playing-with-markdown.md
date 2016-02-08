@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Playing with Markdown"
+title: "playing with markdown"
 date: 2015-02-08
 ---
 
