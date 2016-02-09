@@ -16,7 +16,7 @@ Now, of course, that way of thinking has become antiquated. We “touch” the I
 
 **Paralyzed by Permanence**
 
-*“The Internet is written in ink. It’s permanent.”*
+*"The Internet's not written in pencil, Mark, it's written in ink."*
 
 Actually, I think the metaphor can be taken even further. Every post we make, every update we post, every Tweet we send out into the void becomes like a tattoo on our digital bodies.
 
@@ -27,6 +27,8 @@ But they are still out there. Every post you make is printed on your digital bod
 Trevor Noah is a recent example of this. Last year, he was announced as the new host of The Daily Show. Within 24 hours, he faced an [intense backlash](http://time.com/3764913/trevor-noah-twitter-backlash/) after bloggers and journalists dug back into his Twitter history to uncover jokes that were “sexist” and “anti-semitic.”
 
 His Tweets were like some of his old tattoos, and they were not flattering.
+
+[Imgur](http://i.imgur.com/mnbvAqJ.png)
 
 **A Writer’s Perspective**
 
