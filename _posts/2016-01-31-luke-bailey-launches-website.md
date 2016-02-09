@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Luke Bailey Launches Site"
+title: "Luke Bailey Launches Website"
 date: 2016-01-31
 ---
 
 **Introduction**
 
-“The Internet is terrifying. It’s vast, it’s dangerous, and it can’t be controlled.”
+*“The Internet is terrifying. It’s vast, it’s dangerous, and it can’t be controlled.”*
 
 Those were the fears of previous generations, the fears of my parents and my teachers. Back in the 90’s, the Internet was like a piece of art in a museum. You could look at, amuse yourself with it, or even learn from it - but you must never “touch” it.
 
@@ -14,9 +14,9 @@ Online interactions were dangerous, especially for children.
 
 Now, of course, that way of thinking has become antiquated. We “touch” the Internet in more ways than ever, with social media, online dating, and blogging. But with all of this interactive content, we’ve uncovered a new type of Internet danger.
 
-**Paralyzed by permanence**
+**Paralyzed by Permanence**
 
-“The Internet is written in ink. It’s permanent.”
+*“The Internet is written in ink. It’s permanent.”*
 
 Actually, I think the metaphor can be taken even further. Every post we make, every update we post, every Tweet we send out into the void becomes like a tattoo on our digital bodies.
 
@@ -28,7 +28,7 @@ Trevor Noah is a recent example of this. Last year, he was announced as the new 
 
 His Tweets were like some of his old tattoos, and they were not flattering.
 
-**A writer’s perspective**
+**A Writer’s Perspective**
 
 So how do I fit into all of this? I’m a professional writer, of sorts, and I have creative ambitions. Here’s the thing though - I’m not all that good at writing fiction yet. I’ve been practicing for a few years, and I feel like I’m getting better. But I’m still at the stage of my life where I consider most sentences I write to be mildly embarrassing.
 
@@ -40,4 +40,4 @@ Rather than worry about the future, I’ve decided to throw caution to the wind.
 
 Because chances are, nobody is.
 
-;)
+**;)**
