@@ -28,7 +28,7 @@ Trevor Noah is a recent example of this. Last year, he was announced as the new 
 
 His Tweets were like some of his old tattoos, and they were not flattering.
 
-[Imgur](http://i.imgur.com/mnbvAqJ.png)
+<blockquote class="imgur-embed-pub" lang="en" data-id="mnbvAqJ"><a href="//imgur.com/mnbvAqJ">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 **A Writer’s Perspective**
 
