@@ -8,7 +8,7 @@ Yes, Olivine will have magic.
 
 What’s the point of creating a new world if you’re not going to add a bit of magic to it? I’ve read my fair share of books with powers and spells in them - authors like Tolkien, Lewis, Bradbury, and Baum were big influences on me growing up.
 
-When it comes to creating my own system of magic though, I want to make sure it holds up to scrutiny. There are two schools of thought when it comes to authors creating their own systems of magic - they either keep things mysterious and abstract, or concrete and explicit. Brandon Sanderson has a lot of interesting posts on this subject, and I’m going to borrow heavily from his ideas to set my system in place.
+When it comes to creating my own system of magic though, I want to make sure it holds up to scrutiny. There are two schools of thought when it comes to authors creating their own systems of magic - they either keep things mysterious and abstract, or concrete and explicit. Brandon Sanderson has a lot of [interesting](http://brandonsanderson.com/sandersons-first-law/) [posts](http://brandonsanderson.com/sandersons-second-law/) on this subject, and I’m going to borrow heavily from his ideas to set my system in place.
 
 So, here we go: the laws of magic in Olivine.
 
