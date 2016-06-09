@@ -5,7 +5,7 @@ date: 2016-06-08
 ---
 <blockquote class="imgur-embed-pub" lang="en" data-id="E7Z9HwC"><a href="//imgur.com/E7Z9HwC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Name: Squill
+**Name**: Squill
 
 Colour: Brown
 
